@@ -1,0 +1,15 @@
+org.apache.mahout.benchmark
+org.apache.mahout.clustering.lda
+org.apache.mahout.text
+org.apache.mahout.utils
+org.apache.mahout.utils.clustering
+org.apache.mahout.utils.nlp.collocations.llr
+org.apache.mahout.utils.vectors
+org.apache.mahout.utils.vectors.arff
+org.apache.mahout.utils.vectors.common
+org.apache.mahout.utils.vectors.io
+org.apache.mahout.utils.vectors.lucene
+org.apache.mahout.utils.vectors.text
+org.apache.mahout.utils.vectors.text.document
+org.apache.mahout.utils.vectors.text.term
+org.apache.mahout.utils.vectors.tfidf

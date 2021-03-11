@@ -1,0 +1,16 @@
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\model\recommender\RecommenderIntro.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\model\recommender\MyUserBasedRecommender.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\servlet\RecomendServlet.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\model\DataBaseUtil.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\conn\ConnectToMySQL.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\im\info\StringUtil.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\im\info\DBUtil.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\im\info\ImportMovies.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\im\info\ImportRatings.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\javabean\MovieInfo.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\model\MyDataModel.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\javabean\Movie.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\model\GetMovieInfo.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\javabean\Rating.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\model\recommender\MySlopeOneRecommender.java
+C:\Users\Guo\Desktop\MovieRecommender-master\src\main\java\com\rcd\model\recommender\MyItemBasedRecommender.java

@@ -1,0 +1,9 @@
+org.apache.mahout.collections
+org.apache.mahout.math
+org.apache.mahout.math.bitvector
+org.apache.mahout.math.buffer
+org.apache.mahout.math.function
+org.apache.mahout.math.list
+org.apache.mahout.math.list.adapter
+org.apache.mahout.math.map
+org.apache.mahout.math.set

@@ -1,0 +1,78 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyRecommender:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/MyRecommender_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyRecommender" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../mahout-0.3/mahout-core-0.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../mahout-0.3/mahout-math-0.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../mahout-0.3/mahout-utils-0.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../mahout-0.3/mahout-examples-0.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../mahout-0.3/mahout-collections-0.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../mahout-0.3/mahout-taste-webapp-0.3.war" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.46" />
+        </element>
+      </element>
+      <element id="library" level="module" name="mahout-collections-0.3.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="mahout-core-0.3.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="mahout-examples-0.3.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="mahout-math-0.3.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="mahout-utils-0.3.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="cglib-nodep-2.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="classworlds-1.1-alpha-2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-beanutils-1.7.0.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-cli-1.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-cli-2.0-mahout.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-codec-1.3.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-collections-3.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-dbcp-1.2.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-digester-1.7.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-httpclient-3.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-lang-2.4.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-logging-1.1.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-math-1.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="commons-pool-1.4.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="easymock-2.5.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="easymockclassextension-2.5.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="file-management-1.2.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="google-collections-1.0-rc2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="gson-1.3.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="hadoop-core-0.20.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="hbase-0.20.0.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="javaee-api-5.0-1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="jets3t-0.7.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="junit-4.7.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="lucene-analyzers-2.9.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="lucene-benchmark-2.9.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="lucene-core-2.9.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="lucene-demos-2.9.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="lucene-highlighter-2.9.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="lucene-memory-2.9.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="lucene-wikipedia-2.9.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="maven-artifact-2.0.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="maven-artifact-manager-2.0.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="maven-plugin-api-2.0.6.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="maven-repository-metadata-2.0.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="maven-shared-io-1.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="objenesis-1.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="oro-2.0.8.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="plexus-container-default-1.0-alpha-9.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="plexus-utils-1.5.6.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="slf4j-api-1.5.8.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="slf4j-jcl-1.5.8.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="uncommons-maths-1.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="velocity-1.5.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="wagon-provider-api-1.0-alpha-6.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="watchmaker-framework-0.6.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="watchmaker-swing-0.6.2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="xml-apis-1.0.b2.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="xpp3_min-1.1.4c.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="xstream-1.3.1.jar" module-name="MyRecommender" />
+      <element id="library" level="module" name="jasper-el.jar" module-name="MyRecommender" />
+      <element id="javaee-facet-resources" facet="MyRecommender/web/Web" />
+    </root>
+  </artifact>
+</component>
